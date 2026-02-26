@@ -127,7 +127,7 @@ The Excel workbook is organized into the following sheets:
 ![Overview](dashboard-overview.png)
 
 ### 🔹 Trip Schedule Dashboard
-![Trip Schedule](trip-schedule.png)
+![Trip Schedule](dashboard-overview(Schedule).png)
 
 ---
 
